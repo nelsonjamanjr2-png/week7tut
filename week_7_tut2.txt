@@ -1,0 +1,212 @@
+    1  ls
+    2  cd Documents
+    3  ls
+    4  cd
+    5  Downloads
+    6  cd Downloads
+    7  ls
+    8  NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science
+    9  cd NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science
+   10  cd NelsonAmanJr--COMP\ 7024/COMP\ 7024--Prog\ for\ Data\ Science
+   11  cd
+   12  cd Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science'
+   13  cd Downloads
+   14  cd
+   15  ls
+   16  ~
+   17  >
+   18  cd
+   19  cd Downloads
+   20  cd 'NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science'
+   21  ls -al
+   22  mkdir 'week 8'
+   23  ls
+   24  cd 'weel 8'
+   25  cd 'week 8'
+   26  cd ..
+   27  cd ..
+   28  cd 'Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science'
+   29  cd 'COMP 7024--Prog for Data Science'
+   30  ls
+   31  touch tmp.txt
+   32  ls
+   33  rm tmp.txt
+   34  touch tmp.txt
+   35  nano tmp.txt
+   36  cat tmp.txt
+   37  cp tmp.txt ../
+   38  ls
+   39  ls
+   40  cd ..
+   41  ls
+   42  mv tmp.txt new.txt
+   43  ls
+   44  mv new.txt 'week 8'
+   45  mv new.txt 'COMP 7024--Prog for Data Science/week 8'
+   46  mv new.txt 'Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science/week 8'
+   47  cd
+   48  ls
+   49  cd 'Downloads/NelsonAmanJr--COMP 7024
+   50  cd 'Downloads/NelsonAmanJr--COMP'
+   51  cd 'Downloads/NelsonAmanJr--COMP 7024/'
+   52  ls
+   53  mv new.txt '/COMP 7024--Prog for Data Science/week 8'
+   54  mv new.txt /COMP 7024--Prog for Data Science/week 8/'
+   55  cd ..
+   56  ls
+   57  cd ''Downloads/NelsonAmanJr--COMP 7024'
+   58  ffff..
+   59  .0
+   60  ..
+   61  ~
+   62  cd 'Downloads/NelsonAmanJr--COMP 7024'
+   63  ls
+   64  mv 'week 8.txt' new.txt
+   65  mv week 8.txt new.txt
+   66  mv week 8.txt 'COMP 7024--Prog for Data Science/'
+   67  [200~mv week 8.txt 'COMP 7024--Prog for Data Science/'
+   68  week\8.txt 'COMP 7024--Prog for Data Science/'
+   69  mv week\8.txt 'COMP 7024--Prog for Data Science'
+   70  mv 'week 8.txt' 'COMP 7024--Prog for Data Science/'
+   71  ls
+   72  cd  'Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science'
+   73  cd 'Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science'
+   74  cd [200~ '/COMP 7024--Prog for Data Science'
+   75  cd 'COMP 7024--Prog for Data Science/'
+   76  ls
+   77  cp 'week 8.txt' '/Downloads'
+   78  cp 'week 8.txt' ../
+   79  cp 'week 8.txt' 'Downloads/'
+   80  cp 
+   81  cp 'week 8
+   82  cp 'week 8.txt' '/Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science/week 8'
+   83  cp 'week 8.txt' '/Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science/week 8'
+   84  cd '/Downloads/NelsonAmanJr--COMP 7024/'
+   85  cd 'Downloads'
+   86  cd  'Downloads/NelsonAmanJr--COMP 7024'
+   87  cd 'Downloads/NelsonAmanJr--COMP 7024/'
+   88  cd 'NelsonAmanJr--COMP 7024'
+   89  ls
+   90  cp 'week 8.txt' 'COMP 7024--Prog for Data Science/week 8'
+   91  ls
+   92  cd 'COMP 7024--Prog for Data Science/'
+   93  rm -rf 'week 8'
+   94  ls
+   95  ls -h
+   96  ls --help
+   97  rm --help
+   98  mkdir 'week 8'
+   99  mv 'week 8' w8
+  100  ls
+  101  cp w8 'week 7'
+  102  cp -r w8 'week 7'
+  103  ls 'week 7'
+  104  ls '/Downloads/NelsonAmanJr--COMP 7024'
+  105  ls '/Downloads/NelsonAmanJr--COMP 7024/'
+  106  ls
+  107  nano nel.txt 
+  108  nano nel.txt
+  109  git config --list
+  110  clear
+  111  git --help
+  112  git --help
+  113  git add - h
+  114  git add -h
+  115  clear
+  116  ls
+  117  mkdir tmp1
+  118  cd tmp1
+  119  git init
+  120  git add file.R
+  121  git add file.R
+  122  git commit
+  123  git add file.Rmd
+  124  git commit
+  125  git status
+  126  git config --global nelsonjamanjr2@gmail.com
+  127  touch 1.txt
+  128  ls
+  129  git add i.txt
+  130  git add 1.txt
+  131  git add file.Rmd
+  132  git commmit -a
+  133  git commit -a
+  134  git -m
+  135  git -am 'this is second commit'
+  136  git config --global user.email "nelsonjamanjr2@gmail.com"
+  137  git config --global user.name "Nelson"
+  138  git commit -a
+  139  git commit
+  140  git commit
+  141  nano .gitignore
+  142  git status
+  143  git diff
+  144  ls
+  145  git mv 1.txt test.txt
+  146  ls
+  147  git commit
+  148  git log
+  149  git log --patch
+  150  git log test.txt
+  151  git branch
+  152  git checkout main
+  153  git commit
+  154  git config --global user.name 'nelsonjamanjr-png'
+  155  git config --global user.name 'nelsonjamanjr2-png'
+  156   git config --global user.email 'nelsonjamanjr2.com'
+  157  clear
+  158  git config --global user.name 'nelsonjamanjr2-png'
+  159  git config --global user.email 'nelsonjamanjr2@gmail.com'
+  160  git config --list
+  161  ssh-keygen
+  162  cd ~/.ssh/id_ed25519
+  163  ..
+  164  cd..
+  165  cd ..
+  166  cd ..
+  167  cd ..
+  168  cd ..
+  169  cd ..
+  170  cd ~/.ssh/id_ed25519
+  171  cd ~/.ssh/
+  172  cat id_ed25519.pub 
+  173  cd ~
+  174  cd 'Downloads/NelsonAmanJr--COMP 7024/COMP 7024--Prog for Data Science'
+  175  mkdir week7
+  176  cd week7
+  177  cd
+  178  mkdir week7
+  179  cd week7
+  180  echo "# week7tut" >> README.md
+  181  git init
+  182  git add README.md
+  183  git commit -m "first commit"
+  184  git branch -M main
+  185  git remote add origin https://github.com/nelsonjamanjr2-png/week7tut.git
+  186  git push -u origin main
+  187  ls
+  188  git add 'NJA--COMP 7024--Week 7--git.Rmd' 
+  189  git commit -m 'first commit'
+  190  git push
+  191  git add 'NJA--COMP 7024--Week 7--git.Rmd'
+  192  git commit -m 'using print function'
+  193  git push
+  194  git branch new_feat
+  195  git checkout new_feat
+  196  git add 'NJA--COMP 7024--Week 7--git2.Rmd'
+  197  git commit -m 'adding a new file in a new branch'
+  198  git push -u origin new_feat
+  199  history
+  200  history >>code_week7
+  201  history >>code_week7.txt
+  202  git add .
+  203  git commit -m 'week 7 code'
+  204  git push -u origin main
+  205  git push -u origin new_feat
+  206  git checkout main
+  207  git merge new_feat
+  208  ls
+  209  git add .
+  210  git commit -m 'merged'
+  211  git push
+  212  history >> week_7_tut2.txt
