@@ -1,0 +1,29 @@
+---
+title: 'COMP 7024: PROGRAMMING FOR DATA SCIENCE WEEK 7 (February 18, 2026)'
+output:
+  html_document:
+    df_print: paged
+  latex_engine: xelatex
+  word_document: 
+  always_allow_html: true
+  pdf_document: 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = 'C:/Users/nelso/Downloads/week7')
+```
+
+#### Submitted by: 
+**Nelson J. Aman Jr. (22201293)**
+
+#### Professor: **Vishal Patel and Lachlan Dalrymple**
+
+#### School Term: **2026 Quarter 1**
+
+============================================================================================
+
+
+```{r}
+print('This is new file for new branch')
+```
