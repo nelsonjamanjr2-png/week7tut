@@ -28,5 +28,8 @@ knitr::opts_knit$set(root.dir = 'C:/Users/nelso/Downloads/week7')
 print('Hello World')
 ```
 
+```{r}
+print("hello")
+```
 
 
